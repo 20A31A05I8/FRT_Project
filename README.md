@@ -9,9 +9,9 @@
 
 
 ## **`TEAM MEMBER DETAILS`** 
-**TEAM MEMBER NAME** - [`KOMMIREDDY PRAVEEN`]
+**TEAM MEMBER NAME** - [`Gadde Srinivas`]
 
-**TEAM MEMBER GITHUB ACCOUNT** - [`GITHUB URL`](https://GITHUB.COM/20a31a05h5/)
+**TEAM MEMBER GITHUB ACCOUNT** - [`GITHUB URL`](https://GITHUB.COM/20a31a05g9/)
 
 
 ## **`Azure technologies`** used For this Project
